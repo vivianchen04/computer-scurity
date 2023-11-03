@@ -1,0 +1,1 @@
+BOOT_IMAGE=/vmlinuz-5.10.0-10-amd64 root=/dev/mapper/cse127--vg-root ro debian-installer=en_US.UTF-8 quiet
